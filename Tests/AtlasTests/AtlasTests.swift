@@ -17,6 +17,6 @@ final class AtlasTests: XCTestCase {
     static var allTests = [
         ("testAustria", testAustria),
         ("testTurkey", testTurkey),
-        ("testUnitedStates", testUnitedStates),
+        ("testUnitedStates", testUnitedStates)
     ]
 }
